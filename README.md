@@ -14,13 +14,9 @@ execute the script:
 
 ## Project Layout
 <pre><code>
-/c++
-    CMakeList.txt
-    reindexBags.cpp
-
-/python
-    reindexBags.py
-
+CMakeList.txt
+reindexBags.cpp
+reindexBags.py
 LICENSE
 README.md
 </pre></code>

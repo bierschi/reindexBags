@@ -69,5 +69,5 @@ fabric.properties
 /**/__pycache__/**
 
 #Project
-
+cmake-build-debug/**
 

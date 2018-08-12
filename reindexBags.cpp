@@ -3,7 +3,7 @@
 //
 #include <iostream>
 #include <string>
-
+#include "rosbag/bag.h"
 
 int main(int argc, char* argv[]){
 
@@ -14,6 +14,7 @@ int main(int argc, char* argv[]){
             std::string *sourceFolder = new std::string[sizeof(argv[2])];
             *sourceFolder = argv[2];
             std::cout << *sourceFolder;
+            
 
         }
 
