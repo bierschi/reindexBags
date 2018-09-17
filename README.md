@@ -2,7 +2,6 @@
 A script to reindex all rosbag files in specified folder
 
 # Usage
-### python
 make the python script executable:
 <pre><code>
 chmod +x reindexBags.py
@@ -14,8 +13,6 @@ execute the script:
 
 ## Project Layout
 <pre><code>
-CMakeList.txt
-reindexBags.cpp
 reindexBags.py
 LICENSE
 README.md
