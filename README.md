@@ -1,5 +1,8 @@
 # reindexBags
 A script to reindex all rosbag files in specified folder
+<br>
+<br>
+![Alt Text](reindexBags_rate5.gif)
 
 # Usage
 make the python script executable:
