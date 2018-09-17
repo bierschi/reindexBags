@@ -1,5 +1,5 @@
 # reindexBags
-A script to reindex all rosbag files in specified folder
+A script to reindex all active rosbag files in specified folder
 <br>
 <br>
 ![Alt Text](reindexBags_rate5.gif)
